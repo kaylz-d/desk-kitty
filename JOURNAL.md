@@ -7,7 +7,7 @@ created_at: "2025-06-12"
 
 # June 12th: Initial idea & concept art
 
-Inspired by Tamagotchi and LivingAI's EMO robot, I sketched ideas for a kitty desk pet. Focus mode is a must-have!!!! I hope to make a pomodoro timer. I'm also considering adding a storage space if I make the body hollow.
+Inspired by Tamagotchi and LivingAI's EMO robot, I sketched ideas for a kitty desk pet. Focus mode is a must-have!!!! I hope to make a Pomodoro timer. I'm also considering adding a small storage compartment if I make the body hollow.
 
 ![concept art for default state](img/conceptArt_neutral.png)
 ![concept art for focus mode](img/conceptArt_focus.png)
