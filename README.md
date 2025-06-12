@@ -1,2 +1,2 @@
-# kitty-desk-pet
+# Desk Kitty
 project made for Highway to Undercity
